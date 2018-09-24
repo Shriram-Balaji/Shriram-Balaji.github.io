@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{98:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Shriram Balaji",description:"Software Engineer",url:"https://www.shriram-balaji.github.io",keywords:"full stack, product enginner, software engineer, developer, cisco, netapp, portfolio, personal website"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----a9c2decdd74bd1bd7d81.js.map

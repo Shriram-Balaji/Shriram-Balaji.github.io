@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: `/Shriram-Balaji.github.io`,
   plugins: [
     'gatsby-plugin-sass',
     {

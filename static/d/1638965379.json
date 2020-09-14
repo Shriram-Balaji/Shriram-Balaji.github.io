@@ -1,1 +1,0 @@
-{"errors":[{"message":"String cannot represent value: [{ emojis: [Array] }]","locations":[{"line":5,"column":9}],"path":["allMarkdownRemark","nodes",0,"frontmatter","sidelinks"]}],"data":{"allMarkdownRemark":{"nodes":[{"frontmatter":{"sidelinks":null}}]}}}
